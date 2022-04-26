@@ -1,1 +1,1 @@
-Updated docs of sprint1
+sprint 2 docs updated
